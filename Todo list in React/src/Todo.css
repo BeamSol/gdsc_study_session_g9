@@ -1,0 +1,11 @@
+.todo {
+    max-width: 400px; 
+    margin: auto; 
+  }
+  
+  .task-input {
+    background-color: white; 
+    color: black; 
+    padding: 5px;
+    margin-right: 5px;
+  }
